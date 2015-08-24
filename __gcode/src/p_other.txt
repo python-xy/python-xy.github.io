@@ -1,0 +1,55 @@
+%
+SciTE
+3.5.1-4
+SCIntilla based Text Editor - Editeur de texte multilangages, puissant et léger
+SCIntilla based Text Editor - Multilanguage, powerful and light-weight text editor
+http://www.scintilla.org/SciTE.html
+SciTE
+1 2
+1 998 918
+-
+
+%
+Console
+1.14.0.15129-13
+Console de commandes Windows améliorée
+Windows console window enhancement
+https://github.com/cbucher/console
+console
+1 2
+3 487 335
+-
+
+%
+WinMerge
+2.12.4.2
+Outil de comparaison et de fusion de fichiers pour Windows
+Open Source differencing and merging tool for Windows
+http://winmerge.org/
+WinMerge
+2
+10 369 537
+-
+
+%
+SWIG
+3.0.5-7
+SWIG (Simplified Wrapper and Interface Generator) est un compilateur qui intègre du C/C++ dans plusieurs langages dont Python
+SWIG (Simplified Wrapper and Interface Generator) is a compiler that integrates C and C++ with several languages including Python
+http://www.swig.org
+swig
+2
+19 162 617
+-
+
+%
+gettext
+0.14.4.3
+Portage de GNU gettext pour Windows - l'outil de traduction GNU (outils complémentaires de pygettext, un module de la bibliothèque standard)
+GNU gettext Win32 porting - the GNU translation tool (useful tools for pygettext, a standard library module)
+http://sourceforge.net/projects/gettext
+gettext
+2
+7 938 828
+-
+

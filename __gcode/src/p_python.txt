@@ -1,0 +1,1265 @@
+%
+Python
+2.7.10
+Bibliothèque standard Python
+Python standard libraries
+http://www.python.org/
+Python
+1 2
+0
+-
+
+%
+Base Libraries
+1.7.0-15
+shared libraries commonly used by other plugins
+shared libraries commonly used by other plugins
+http://code.google.com/p/pythonxy/wiki/BasePlugins
+base_libraries
+1 2
+1000
+-
+
+%
+Base Python
+1.12.0-35
+A collection of small (in scope and size) but essential pure python packages
+A collection of small (in scope and size) but essential pure python packages
+http://code.google.com/p/pythonxy/wiki/BasePlugins
+base_python
+1 2
+1000
+-
+
+%
+modernize
+0.4-1
+A hack on top of 2to3 for modernizing code for hybrid codebases.
+A hack on top of 2to3 for modernizing code for hybrid codebases.
+https://github.com/python-modernize/python-modernize
+modernize
+1 2
+1000
+base_python
+
+%
+setuptools
+18.0.1-41
+Easily download, build, install, upgrade, and uninstall Python packages
+Easily download, build, install, upgrade, and uninstall Python packages
+http://pythonhosted.org/setuptools/
+setuptools
+1 2
+1000
+-
+
+%
+requests
+2.7.0-9
+a HTTP library, written in Python, for human beings.
+a HTTP library, written in Python, for human beings.
+http://python-requests.org
+requests
+1 2
+1000
+pyasn1, OpenSSL
+
+%
+html5lib
+0.99999-4
+Standards-compliant library for parsing and serializing HTML documents and fragments in Python
+Standards-compliant library for parsing and serializing HTML documents and fragments in Python
+https://github.com/html5lib/html5lib-python
+html5lib
+1 2
+1000
+base_python
+
+%
+Pip
+7.0.3-14
+pip is a tool for installing and managing Python packages, such as those found in the Python Package Index.
+pip is a tool for installing and managing Python packages, such as those found in the Python Package Index.
+http://www.pip-installer.org
+pip
+1 2
+1000
+base_python, setuptools, requests, html5lib
+
+%
+PyCrypto
+2.6.1-2
+The Python Cryptography Toolkit
+The Python Cryptography Toolkit
+https://www.dlitz.net/software/pycrypto
+pycrypto
+1 2
+1000
+-
+
+%
+PyQt
+4.11.3-5
+Cadre de développement d'application multiplateforme : interfaces graphiques, widgets, SQL, OpenGL, XML, Unicode, etc.
+Cross-platform Application Framework: GUI, widgets, SQL, OpenGL, XML, Unicode ...
+http://www.riverbankcomputing.co.uk/software/pyqt/intro
+PyQt4
+1 2
+106 737 238
+-
+
+%
+xydoc
+1.0.5.1
+Toute la documentation libre sur Python et ses bibliothèques (aide et exemples de scripts)
+Collection of all freely available help files and examples on Python language and its libraries
+http://pythonxy.googlecode.com
+xydoc
+1 2
+12 655 686
+-
+
+%
+xy
+1.3.5-7
+xy est un module contenant tous les outils de Python(x,y)
+xy is a module that gathers all Python(x,y) tools
+http://pythonxy.googlecode.com
+xy
+1 2
+178 548
+PyQt4, xydoc, ipython
+
+%
+QtHelp
+4.8.6-4
+Documentation complÃ¨te de Qt au format Qt Assistant
+Complete Qt documentation for Qt Assistant
+http://qt-project.org/doc
+QtHelp
+1 2
+68Â 609Â 024
+PyQt4
+
+%
+Spyder
+2.3.5.2-17
+Scientific PYthon Development EnviRonment - Environnement de développement Python dédié à la visualisation de données et aux calculs scientifiques interactifs
+Scientific PYthon Development EnviRonment: designed for interactive computing and data visualisation with a simple and intuitive user interface
+http://spyder-ide.org/
+spyder
+1 2
+3 772 425
+base_python, PyQt4, Sphinx, ipython
+
+%
+PyQwt
+5.2.1-6
+Représentations graphiques 2D (module basé sur la bibliothèque C++ Qwt)
+2D plotting library (set of Python bindings for the Qwt library featuring fast plotting)
+http://pyqwt.sourceforge.net/
+PyQwt5
+1 2
+10 633 241
+PyQt4, numpy
+
+%
+NumPy
+1.9.2-8
+Support des tableaux multidimensionnels et des opérations associées (c'est le noyau de SciPy)
+Multidimensional arrays support and basic operations (SciPy's core module)
+http://numpy.scipy.org/
+numpy
+1 2
+19 605 702
+nose
+
+%
+SciPy
+0.15.1-8
+Traitement du signal, optimisation, statistiques, etc.
+Advanced math, signal processing, optimization, statistics, ...
+http://www.scipy.org/
+scipy
+1 2
+69 897 896
+numpy
+
+%
+numexpr
+2.4.3-10
+Accélération de l'évaluation d'opérations sur des tableaux grâce à une machine virtuelle vectorisée
+Fast evaluation of array expressions elementwise by using a vector-based virtual machine
+https://github.com/pydata/numexpr
+numexpr
+1 2
+725 344
+numpy
+
+%
+h5py
+2.5.0-9
+Interface Python pour le format HDF5 (accès direct à toute l'API de HDF5 contrairement à PyTables)
+General-purpose Python interface to HDF5 files (unlike PyTables, h5py provides direct access to the full HDF5 C library)
+http://www.h5py.org/
+h5py
+1 2
+4 610 703
+base_libraries, numpy
+
+%
+Pillow
+2.8.2-16
+Python Imaging Library - BibliothÃƒÆ’Ã‚Â¨que de traitement d'images
+Python Imaging Library - Image processing library
+http://www.pythonware.com/products/pil/
+PIL
+1 2
+1000
+base_libraries
+
+%
+Pyreadline
+2.0.6-4
+IPython utilise ce module pour afficher des textes colorés dans la console Windows
+IPython needs this module to display color text in Windows console
+http://ipython.org/pyreadline.html
+pyreadline
+1 2
+624 443
+-
+
+%
+pycparser
+2.14-6
+A parser for the C language, written in pure Python.
+a parser for the C language, written in pure Python.
+https://bitbucket.org/eliben/pycparser
+pycparser
+1 2
+1000
+-
+
+%
+cffi
+1.1.2-15
+Foreign Function Interface for Python calling C code.
+Foreign Function Interface for Python calling C code.
+http://cffi.readthedocs.org
+cffi
+1 2
+1000
+pycparser
+
+%
+pyzmq
+14.7.0-14
+Python bindings for ØMQ. ØMQ is a lightweight and fast messaging implementation.
+Python bindings for ØMQ. ØMQ is a lightweight and fast messaging implementation.
+http://www.zeromq.org/bindings:python
+pyzmq
+1 2
+1 032 988
+gevent, libnacl
+
+%
+Tornado
+4.2-11
+An open source version of the scalable, non-blocking web server and tools that power FriendFeed.
+An open source version of the scalable, non-blocking web server and tools that power FriendFeed.
+http://www.tornadoweb.org/
+tornado
+1 2
+1000
+base_python, PycURL
+
+%
+IPython
+2.4.1-10
+A comprehensive environment for interactive and exploratory computing. Also provides ipdb.
+A comprehensive environment for interactive and exploratory computing. Also provides ipdb.
+http://ipython.org
+IPython
+1 2
+1000
+pyreadline, tornado, pyzmq, paramiko
+
+%
+guidata
+1.6.1-3
+Génération automatique d’interfaces graphiques dédiées à la modification ou l’affichage de jeux de paramètres
+Automatically generated graphical user interfaces for easy data set edition and display
+http://code.google.com/p/guidata/
+guidata
+1 2
+844 362
+PyQt4, h5py
+
+%
+guiqwt
+2.3.2-6
+Affichage performant de signaux/images et autres outils pour le développement de logiciels de traitement de données
+Efficient curve/image plotting and other GUI tools for scientific data processing software development
+http://packages.python.org/guiqwt/
+guiqwt
+1 2
+4 800 086
+PyQt4, guidata, numpy, scipy, PIL, PyQwt5
+
+%
+Matplotlib
+1.4.3-7
+Représentation graphique 2D (embarquables dans les interfaces graphiques PyQt)
+2D plotting library (embeddable in GUIs created with PyQt)
+http://matplotlib.sourceforge.net/
+matplotlib
+1 2
+1000
+base_python, numpy, PyQt4, pyparsing, nose
+
+%
+nose
+1.3.7-9
+nose est une extension du module unittest, utilisée notamment par l'architecture de tests de NumPy
+nose is a discovery-based unittest extension (e.g. NumPy test module is using nose)
+http://somethingaboutorange.com/mrl/projects/nose/
+nose
+1 2
+2 249 224
+-
+
+%
+formlayout
+1.0.15-3
+Bibliothèque de création de boîtes de dialogues (formulaires) pour modifier divers types de paramètres sans taper une ligne de code d'interfaces graphiques
+Module for creating form dialogs/widgets to edit various type of parameters without having to write any GUI code
+http://formlayout.googlecode.com
+formlayout
+1 2
+22 651
+PyQt4
+
+%
+Cython
+0.22.1-16
+Cython est un langage qui rend l'écriture d'extensions Python en C aussi facile qu'en Python
+Cython is a language that makes writing C extensions for the Python language as easy as Python
+http://www.cython.org/
+Cython
+2
+4 680 768
+-
+
+%
+docutils
+0.12-4
+Système de traitement de documents texte pour générer des documentation en HTML ou LaTeX (inclue le langage reStructuredText)
+Text processing system for processing plaintext documentation into useful formats, such as HTML or LaTeX (includes reStructuredText)
+http://docutils.sourceforge.net/
+docutils
+1 2
+2 726 437
+-
+
+%
+jinja2
+2.7.3-6
+Sandboxed template engine (provides a Django-like non-XML syntax and compiles templates into executable python code)
+Sandboxed template engine (provides a Django-like non-XML syntax and compiles templates into executable python code)
+http://jinja.pocoo.org/
+jinja2
+1 2
+1 175 265
+base_python, babel
+
+%
+pygments
+2.0.2-3
+Module de coloration syntaxique de code d'utilisation générale
+Generic syntax highlighter for general use in all kinds of software
+http://pygments.org/
+pygments
+1 2
+2 052 087
+-
+
+%
+Sphinx
+1.3.2-10
+Outil pour générer des documentations utilisant du reStructuredText comme langage de base
+Tool for generating documentation which uses reStructuredText as its markup language
+http://sphinx.pocoo.org/index.html
+sphinx
+1 2
+3 701 258
+docutils, jinja2, pygments
+
+%
+ReportLab
+3.2.0-5
+Bibliothèque de création de documents PDF
+The PDF generation library
+http://www.reportlab.org/
+reportlab
+1 2
+5 598 089
+-
+
+%
+simplejson
+3.7.3-19
+Encodeur/décodeur JSON (JavaScript Object Notation) simple, rapide et évolutif
+Simple, fast, extensible JSON (JavaScript Object Notation) encoder/decoder
+http://pypi.python.org/pypi/simplejson/
+simplejson
+2
+371 198
+-
+
+%
+rst2pdf
+0.93-7
+Outil pour transformer du texte restructuré (reStructuredText) en document PDF
+Tool for transforming reStructuredText to PDF using ReportLab
+https://github.com/ralsina/rst2pdf
+rst2pdf
+2
+1 442 100
+reportlab, simplejson, docutils, pygments
+
+%
+PyOpenGL
+3.1.0-4
+Bibliothèque interfaçant Python à OpenGL et aux API associées (inclus : PyOpenGL-accelerate)
+Cross platform Python binding to OpenGL and related APIs (includes PyOpenGL-accelerate)
+http://pyopengl.sourceforge.net/
+PyOpenGL
+1 2
+7 284 868
+-
+
+%
+VPython
+5.74-2
+Création de modèles 3D interactifs de systèmes physiques
+Creation of 3D interactive models of physical systems
+http://vpython.org/
+vpython
+2
+9 155 045
+numpy
+
+%
+SymPy
+0.7.6-6
+Bibliothèque de calcul symbolique
+Symbolic Mathematics Library
+http://sympy.org
+sympy
+2
+16 598 568
+-
+
+%
+cvxopt
+1.1.7-2
+Bibliothèque d'algorithmes d'optimisation convexe
+Convex optimization library
+http://cvxopt.org
+cvxopt
+2
+4 437 024
+-
+
+%
+PyWavelets
+0.2.2
+Bibliothèque de transformées en ondelettes
+Wavelet transforms module
+http://www.pybytes.com/pywavelets/
+PyWavelets
+2
+693 982
+-
+
+%
+scikits-learn
+0.16.1-9
+Algorithmes classiques d'apprentissage pour le traitement de données : solutions simples et efficaces aux problèmes d'apprentissage
+Classic machine learning algorithms - Provide simple an efficient solutions to learning problems
+http://scikit-learn.sourceforge.net
+scikits-learn
+2
+6 883 931
+numpy, scipy, matplotlib
+
+%
+scikits.image
+0.11.3-9
+The scikits.image SciKit (toolkit for SciPy) extends scipy.ndimage to provide a versatile set of image processing routines.
+The scikits.image SciKit (toolkit for SciPy) extends scipy.ndimage to provide a versatile set of image processing routines.
+http://scikits-image.org/
+scikits.image
+2
+4 324 500
+numpy, scipy, astropy
+
+%
+MDP
+3.3.0.1
+Modular toolkit for Data Processing - Algorithmes d'apprentissage pour le traitement de données
+Modular toolkit for Data Processing - Collection of supervised and unsupervised learning algorithms
+http://mdp-toolkit.sourceforge.net/
+mdp
+2
+2 548 016
+numpy, scipy
+
+%
+NetworkX
+1.9.1-3
+CrÃ©ation, manipulation et Ã©tude de la structure et de la dynamique de rÃ©seaux complexes
+Creation, manipulation, and study of the structure, dynamics, and functions of complex networks
+http://networkx.github.io
+networkx
+2
+3Â 869Â 006
+numpy, scipy, matplotlib, pyparsing, pygraphviz
+
+%
+PyTables
+3.2.0-8
+Basée sur la bibliothèque HDF5, permet de gérer des ensembles de données hiérarchisés (adaptée à de grands volumes de données)
+Package based on HDF5 library for managing hierarchical datasets (extremely large amounts of data)
+http://www.pytables.org
+pytables
+1 2
+7 487 956
+numpy, numexpr, h5py
+
+%
+vitables
+2.2-1
+Navigateur de fichiers au format HDF5 et PyTables
+Graphical tool for browsing and editing files in both HDF5 and PyTables formats
+http://vitables.org/
+vitables
+1 2
+7 692 994
+pytables, PyQt4
+
+%
+Parallel Python
+1.6.4-3
+Parallel Python - Exécution de scripts Python sur des systèmes multiprocesseurs (ou multicoeurs) et des clusters
+Parallel Python - Parallel execution of Python code on systems with multiple processors or cores, and clusters
+http://www.parallelpython.com/
+pp
+2
+109 279
+-
+
+%
+Pywin32
+219.0-3
+Bibliothèque utilitaire spécifique à Windows
+Python library for Windows
+http://sourceforge.net/projects/pywin32/
+pywin32
+1 2
+15 598 323
+-
+
+%
+SendKeys
+0.3
+Module Python pour Windows permettant d'envoyer des événements clavier à la fenêtre active
+Python module for Windows that can send one or more keystrokes or keystroke combinations to the active window
+http://www.rutherfurd.net/python/sendkeys/index.html
+SendKeys
+2
+22 653
+-
+
+%
+netCDF4
+1.1.8-12
+Interface Python pour manipuler les fichiers netCDF4 (network Common Data Form)
+Python binding to netCDF4 (network Common Data Form), a set of software libraries and machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data
+http://unidata.github.io/netcdf4-python/
+netCDF4
+2
+4Ã‚Â 401Ã‚Â 792
+numpy, h5py, pyhdf, PycURL
+
+%
+pywinauto
+0.4.2-1
+Automatisation d'interfaces graphiques Microsoft Windows (permet d'envoyer des événements souris et clavier aux fenêtres, boîtes de dialogue et contrôles)
+Set of python modules to automate the Microsoft Windows GUI (allows sending mouse and keyboard actions to windows, dialogs and controls)
+http://code.google.com/p/pywinauto
+pywinauto
+2
+1 980 154
+SendKeys
+
+%
+pyvisa
+1.7-6
+Pilotage d'instruments en utilisant différents types de bus (GPIB, RS232, USB)
+Control all kinds of measurement equipment through various busses (GPIB, RS232, USB)
+http://pyvisa.sourceforge.net/
+pyvisa
+2
+386 061
+-
+
+%
+PySerial
+2.7-1
+Bibliothèque utilitaire de pilotage du port série
+Library encapsulating the access for the serial port
+http://sourceforge.net/projects/pyserial/
+pyserial
+2
+72 489
+-
+
+%
+PyParallel
+0.2.0.1
+Bibliothèque utilitaire de pilotage du port parallèle
+Library encapsulating the access for the parallel port
+http://sourceforge.net/projects/pyserial/
+pyparallel
+2
+37 494
+-
+
+%
+pyhdf
+0.8.3-4
+Interface Python pour manipuler les fichiers HDF4 (Hierarchical Data Format version 4)
+Python interface to HDF4 files (Hierarchical Data Format version 4)
+http://pysclint.sourceforge.net/pyhdf/index.html
+pyhdf
+2
+1 549 856
+numpy, base_libraries
+
+%
+xlrd
+0.9.3-4
+Extraction de données depuis des feuilles de calcul Microsoft Excel
+Extract data from Microsoft Excel spreadsheet files
+http://pypi.python.org/pypi/xlrd
+xlrd
+2
+493 507
+-
+
+%
+xlwt
+1.0.0-2
+Création de feuilles de calcul compatibles avec Microsoft Excel 97/2000/XP/2003, OpenOffice.org Calc et Gnumeric
+Create spreadsheet files compatible with Microsoft Excel 97/2000/XP/2003 files, OpenOffice.org Calc, and Gnumeric
+http://pypi.python.org/pypi/xlwt
+xlwt
+2
+547 680
+-
+
+%
+pylint
+1.4.3-18
+Module d'analyse de code de Logilab : recherche de bugs et vÃƒÆ’Ã‚Â©rification de la qualitÃƒÆ’Ã‚Â© du code
+Logilab code analysis module: analyzes Python source code looking for bugs and signs of poor quality
+http://www.pylint.org
+pylint
+1 2
+1Ãƒâ€šÃ‚Â 653Ãƒâ€šÃ‚Â 954
+base_python
+
+%
+wxPython
+2.8.12.1-1
+Bibliothèque d'interfaces graphiques multiplateforme
+Cross-platform GUI library
+http://www.wxpython.org/
+wxPython
+1 2
+10 633 241
+-
+
+%
+winpdb
+1.4.8.3
+Débogueur Python 20 fois plus rapide que pdb avec prise en charge de plusieurs threads, modification de namespace, ...
+Python debugger with support for multiple threads, namespace modification, embedded debugging, encrypted communication and is up to 20 times faster than pdb
+http://winpdb.org/
+winpdb
+2
+580 871
+wxPython
+
+%
+VTK
+6.2.0-5
+Bibliothèque libre de traitement d'image et de visualisation 2D et 3D
+Open-source software system for visualization, 3D graphics, volume rendering and image processing
+http://www.vtk.org
+vtk
+2
+84 036 650
+base_libraries, PyQt4, lxml
+
+%
+ITK
+4.7.2-9
+Bibliothèque libre de traitement pour l'imagerie médicale (algorithmes de segmentation et de fusion de données)
+Open-source software system for medical image processing (leading-edge segmentation and registration algorithms)
+http://www.itk.org
+itk
+2
+1000
+base_libraries, vtk, h5py, OpenSSL
+
+%
+ply
+3.6-2
+PLY is an implementation of lex and yacc parsing tools for Python.
+PLY is an implementation of lex and yacc parsing tools for Python.
+http://www.dabeaz.com/ply/
+ply
+1 2
+532 032
+-
+
+%
+ETS
+4.4.4-15
+Enthought Tool Suite : MayaVi 2 (outil de visualisation scientifique 2D et 3D), Traits, Chaco, etc.
+Enthought Tool Suite: MayaVi 2 (powerful 2D and 3D scientific visualization tool), Traits, Chaco, ...
+http://code.enthought.com/projects/tool-suite.php
+EnthoughtToolSuite
+2
+72 330 198
+wxPython, vtk, setuptools, PIL, numpy, ply
+
+%
+mx
+3.2.8-4
+Bibliothèques eGenix.com : mxDateTime, mxTextTools, mxProxy, mxBeeBase, mxURL, mxUID, mxStack, mxQueue and mxTools
+eGenix.com mx Base Distribution: mxDateTime, mxTextTools, mxProxy, mxBeeBase, mxURL, mxUID, mxStack, mxQueue and mxTools
+http://www.egenix.com/products/python/mxBase
+mx
+2
+15 183 771
+-
+
+%
+gnuplot
+1.8.0.3
+Module de représentation graphique complet comprenant l'outil gnuplot (v4.4.3) et son interface Python
+Complete plotting package: include the popular open-source plotting program gnuplot (v4.4.3) and the Python interface
+http://gnuplot-py.sourceforge.net
+Gnuplot
+1 2
+9 601 622
+numpy
+
+%
+GDAL
+1.11.2-8
+Geospatial Data Abstraction Library
+Geospatial Data Abstraction Library
+http://www.gdal.org/
+gdal
+2
+1000
+base_libraries, numpy, h5py, pyhdf, PyICU, lxml, netCDF4, OpenSSL
+
+%
+pydicom
+0.9.9-3
+Module écrit purement en Python pour manipuler les fichiers DICOM (imagerie médicale)
+Pure python package for working with DICOM files (medical imaging)
+http://www.pydicom.org/
+pydicom
+2
+2 112 789
+-
+
+%
+cx_Freeze
+4.3.4-4
+Outil de déploiement permettant de convertir des scripts Python en exécutables Windows autonomes (c'est-à-dire ne nécessitant pas d'installation de Python préalable sur la machine cible)
+Deployment tool which converts Python scripts into stand-alone Windows executables (i.e. target machine does not require Python or any other library to be installed)
+http://cx-freeze.sourceforge.net
+cx_Freeze
+1 2
+1 549 502
+-
+
+%
+py2exe
+0.6.9
+Outil similaire à cx_Freeze (risque d'obsolescence : à ce jour, contrairement à py2exe, il n'existe pas de version pour Python 3)
+Deployment tool like cx_Freeze (deprecation warning: as of today, unlike cx_Freeze, py2exe has not yet been ported to Python 3)
+http://www.py2exe.org/
+py2exe
+1 2
+1 549 502
+-
+
+%
+OpenCV
+2.4.11-7
+OpenCV est une biblioth?que de traitement d'images Intel, avec des algorithmes de reconnaissance de formes.
+OpenCV is the Intel image processing library with Computer Vision algorithms.
+http://opencv.org
+OpenCV
+2
+2 112 789
+base_libraries, PyQt4, numpy
+
+%
+pyparsing
+2.0.3-4
+An alternative approach to creating and executing simple grammars, vs. the traditional lex/yacc approach, or the use of regular expressions.
+An alternative approach to creating and executing simple grammars, vs. the traditional lex/yacc approach, or the use of regular expressions.
+http://pyparsing.wikispaces.com/
+pyparsing
+1 2
+1 032 988
+-
+
+%
+Veusz
+1.23.1-15
+Application de représentation graphique de données dédiée à la création de figures prêtes à publier
+Scientific plotting application designed to create publication quality output with a friendly interface
+http://home.gna.org/veusz/
+veusz
+1 2
+38 845 248
+PyQt4, numpy, astropy
+
+%
+pandas
+0.16.2-15
+provides fast, flexible, and expressive data structures designed to make working with relational or labeled data both easy and intuitive.
+provides fast, flexible, and expressive data structures designed to make working with relational or labeled data both easy and intuitive.
+http://pandas.sourceforge.net/
+pandas
+1 2
+1 032 988
+base_python, numpy, scipy, matplotlib, statsmodels, bottleneck, numexpr
+
+%
+openpyxl
+2.2.4-25
+A Python library to read/write Excel 2007 xlsx/xlsm files.
+A Python library to read/write Excel 2007 xlsx/xlsm files.
+http://bitbucket.org/ericgazoni/openpyxl/wiki/Home
+openpyxl
+2
+1 032 988
+-
+
+%
+psutil
+3.0.1-15
+Provides an interface for retrieving information on all running processes and system utilization (CPU, disk, memory, network) in a portable way.
+Provides an interface for retrieving information on all running processes and system utilization (CPU, disk, memory, network) in a portable way.
+https://github.com/giampaolo/psutil
+psutil
+1 2
+1 032 988
+-
+
+%
+statsmodels
+0.6.1-3
+Allows users to explore data, estimate statistical models, and perform statistical tests.
+Allows users to explore data, estimate statistical models, and perform statistical tests.
+http://statsmodels.sourceforge.net
+statsmodels
+1 2
+1 032 988
+numpy, scipy, pandas, patsy
+
+%
+SQLAlchemy
+1.0.6-23
+The Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
+The Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
+http://www.sqlalchemy.org
+sqlalchemy
+1 2
+1000
+base_python
+
+%
+virtualenv
+13.0.3-14
+Creates isolated Python environments.
+Creates isolated Python environments.
+http://www.virtualenv.org/en/latest/
+virtualenv
+1 2
+1000
+-
+
+%
+uncertainties
+2.4.6.1-12
+Transparently handles calculations with numbers with uncertainties (like 3.14+-0.01)
+Transparently handles calculations with numbers with uncertainties (like 3.14+-0.01)
+http://packages.python.org/uncertainties/
+uncertainties
+2
+1000
+numpy
+
+%
+PyICU
+1.9.2-6
+Python extension wrapping the ICU C++ API
+Python extension wrapping the ICU C++ API
+http://pyicu.osafoundation.org/
+PyICU
+1 2
+1000
+-
+
+%
+lxml
+3.4.4-19
+A Pythonic binding for the C libraries libxml2 and libxslt. Includes BeautifulSoup.
+A Pythonic binding for the C libraries libxml2 and libxslt. Includes BeautifulSoup.
+http://lxml.de
+lxml
+1 2
+912 036
+base_libraries, PyICU
+
+%
+gevent
+1.0.2-9
+A coroutine-based Python networking library. Includes greenlet.
+A coroutine-based Python networking library. Includes greenlet.
+http://www.gevent.org
+gevent
+1 2
+1000
+-
+
+%
+paramiko
+1.15.2-13
+Native Python SSHv2 protocol library
+Native Python SSHv2 protocol library
+https://github.com/paramiko/paramiko
+paramiko
+1 2
+1000
+pycrypto
+
+%
+Bottleneck
+1.0.0-4
+Fast NumPy array functions written in Cython
+Fast NumPy array functions written in Cython
+http://berkeleyanalytics.com/bottleneck
+bottleneck
+1 2
+1000
+numpy, scipy
+
+%
+mahotas
+1.3.0-16
+A set of functions for image processing and computer vision in Python
+A set of functions for image processing and computer vision in Python
+http://luispedro.org/software/mahotas
+mahotas
+1 2
+1000
+numpy
+
+%
+PycURL
+7.19.5.1-9
+a Python interface to libcurl
+a Python interface to libcurl
+http://pycurl.sourceforge.net
+PycURL
+2
+1000
+OpenSSL
+
+%
+Babel
+1.3-3
+A collection of tools for internationalizing Python applications.
+A collection of tools for internationalizing Python applications.
+http://babel.edgewall.org/
+babel
+1 2
+1000
+base_python
+
+%
+pyodbc
+3.0.11-2
+A Python DB API 2 module for ODBC
+A Python DB API 2 module for ODBC
+http://mkleehammer.github.io/pyodbc
+pyodbc
+2
+1000
+-
+
+%
+BeautifulSoup4
+4.3.2-2
+A Python library for pulling data out of HTML and XML files.
+A Python library for pulling data out of HTML and XML files.
+http://www.crummy.com/software/BeautifulSoup
+BeautifulSoup4
+1 2
+1000
+lxml
+
+%
+pygraphviz
+1.3-3
+A Python interface to the Graphviz graph layout and visualization package.
+A Python interface to the Graphviz graph layout and visualization package.
+http://pygraphviz.github.io
+pygraphviz
+2
+1000
+-
+
+%
+patsy
+0.3.0-2
+A package for describing statistical models and building design matrices.
+A package for describing statistical models and building design matrices.
+https://github.com/pydata/patsy
+patsy
+1 2
+1000
+numpy, scipy
+
+%
+pyyaml
+3.11-2
+a YAML parser and emitter for Python.
+a YAML parser and emitter for Python.
+http://pyyaml.org/wiki/PyYAML
+pyyaml
+1 2
+1000
+-
+
+%
+fabric
+1.10.2-9
+Simple, Pythonic remote execution and deployment.
+Simple, Pythonic remote execution and deployment.
+http://docs.fabfile.org
+fabric
+2
+1000
+paramiko
+
+%
+astropy
+1.0.3-11
+Various classes, utilities, and a packaging framework intended to provide commonly-used astronomy tools.
+Various classes, utilities, and a packaging framework intended to provide commonly-used astronomy tools.
+http://www.astropy.org/
+astropy
+1 2
+1000
+base_python, numpy, scipy, h5py, lxml, networkx, ply
+
+%
+pytest
+2.7.2-18
+Simple powerful testing with Python
+Simple powerful testing with Python
+http://pytest.org
+pytest
+2
+1000
+base_python
+
+%
+enaml
+0.9.8-7
+Declarative language for building dynamic user interfaces in Python
+Declarative language for building dynamic user interfaces in Python
+https://github.com/nucleic/enaml
+enaml
+2
+1000
+setuptools, ply, PyQt4
+
+%
+blosc-python
+1.2.7-7
+A Python wrapper for the extremely fast Blosc compression library
+A Python wrapper for the extremely fast Blosc compression library
+https://github.com/Blosc/python-blosc
+blosc
+1 2
+1000
+base_libraries
+
+%
+pyOpenSSL
+0.15.1-9
+Python interface to the OpenSSL library
+Python interface to the OpenSSL library
+https://github.com/pyca/pyopenssl
+OpenSSL
+1 2
+1000
+base_python, pyasn1, setuptools, cffi
+
+%
+ffnet
+0.8.0-2
+Feed-forward neural network solution for python
+Feed-forward neural network solution for python
+http://ffnet.sourceforge.net/
+ffnet
+2
+1000
+numpy, scipy, networkx, matplotlib, pygraphviz
+
+%
+PyAudio
+0.2.8-2
+Python bindings for PortAudio, the cross-platform audio I/O library
+Python bindings for PortAudio, the cross-platform audio I/O library
+http://people.csail.mit.edu/hubert/pyaudio
+pyaudio
+1 2
+1000
+-
+
+%
+Mako
+1.0.1-3
+A super-fast templating language that borrows the best ideas from the existing templating languages.
+A super-fast templating language that borrows the best ideas from the existing templating languages.
+http://www.makotemplates.org/
+mako
+1 2
+1000
+babel
+
+%
+pycares
+0.7.0-5
+Provides an interface to c-ares - a C library that performs DNS requests and name resolutions asynchronously.
+Provides an interface to c-ares - a C library that performs DNS requests and name resolutions asynchronously.
+https://github.com/saghul/pycares
+pycares
+2
+1000
+-
+
+%
+PyMC
+2.3.4-3
+Markov Chain Monte Carlo sampling toolkit.
+Markov Chain Monte Carlo sampling toolkit
+https://github.com/pymc-devs/pymc
+pymc
+2
+1000
+numpy, scipy, matplotlib
+
+%
+seaborn
+0.5.1-3
+a Python visualization library based on matplotlib.
+a Python visualization library based on matplotlib.
+http://www.stanford.edu/~mwaskom/software/seaborn/
+seaborn
+2
+1000
+numpy, scipy, matplotlib, pandas, statsmodels, patsy
+
+%
+pyasn1
+0.1.8-2
+A pure-Python implementation of ASN.1 types and DER/BER/CER codecs (X.208).
+A pure-Python implementation of ASN.1 types and DER/BER/CER codecs (X.208).
+http://sourceforge.net/projects/pyasn1/
+pyasn1
+1 2
+1000
+-
+
+%
+cvxpy
+0.2.24-8
+A domain-specific language for modeling convex optimization problems in Python
+A domain-specific language for modeling convex optimization problems in Python
+http://github.com/cvxgrp/cvxpy
+cvxpy
+2
+1000
+numpy, scipy
+
+%
+grin
+1.2.1-2
+Utility which searches directories of source code better than grep or find.
+Utility which searches directories of source code better than grep or find.
+https://pypi.python.org/pypi/grin
+grin
+1 2
+1000
+base_python
+
+%
+libnacl
+1.4.3-2
+Python bindings for libsodium/tweetnacl based on ctypes
+Python bindings for libsodium/tweetnacl based on ctypes
+https://pypi.python.org/pypi/libnacl
+libnacl
+1 2
+1000
+-
+
+%
+urllib3
+1.10.4-3
+HTTP library with thread-safe connection pooling, file post, and more.
+HTTP library with thread-safe connection pooling, file post, and more.
+http://urllib3.readthedocs.org/en/latest/
+urllib3
+1 2
+1000
+base_python
+
+%
+yappi
+0.94-1
+Yet Another Python Profiler
+Yet Another Python Profiler
+https://code.google.com/p/yappi/
+yappi
+1 2
+1000
+-
+

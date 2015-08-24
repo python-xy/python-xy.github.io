@@ -1,0 +1,176 @@
+%
+Basemap
+1.0.2
+Extension de matplotlib pour l'affichage de données sur des projections cartographiques
+The basemap toolkit is a matplotlib extension for plotting data on map projections
+http://matplotlib.github.com/basemap
+basemap
+2
+194 043 904
+numpy, matplotlib
+
+%
+brian
+1.4.1-2
+Simulator for spiking neural networks
+Simulator for spiking neural networks
+http://www.briansimulator.org/
+brian
+2
+1 863 532
+numpy, scipy, matplotlib
+
+%
+golem
+1.0.1
+set of tools, and ontology language, for processing data written in the CML, the Chemical Markup Language
+Set of tools, and ontology language, for processing data written in the CML, the Chemical Markup Language
+http://www.lexical.org.uk/science/golem/
+golem
+2
+3 563 520
+lxml, simplejson
+
+%
+unum
+4.1.3-1
+A Python module that allows defining and manipulating true quantities, i.e. numbers with units like volts, hours, meter-per-second per second, 30 dollars, and so on
+A Python module that allows defining and manipulating true quantities, i.e. numbers with units like volts, hours, meter-per-second per second, 30 dollars, and so on
+http://home.scarlet.be/be052320/Unum.html
+unum
+2
+547 622
+-
+
+%
+SimPy
+3.0.5-3
+A process-based discrete-event simulation language based on standard Python
+A process-based discrete-event simulation language based on standard Python
+http://simpy.sourceforge.net/
+simpy
+2
+2 138 828
+-
+
+%
+pyproj
+1.9.3-2
+Python interface to PROJ.4 library
+Python interface to PROJ.4 library
+http://code.google.com/p/pyproj
+pyproj
+2
+2 589 503
+-
+
+%
+pyopencl
+2014.1-7
+Provides easy, Pythonic access to the OpenCL parallel computation API. Includes mako, pytools, and beaker.
+Provides easy, Pythonic access to the OpenCL parallel computation API. Includes  mako, pytools, and beaker.
+http://mathema.tician.de/software/pyopencl
+pyopencl
+2
+771 869
+base_python, numpy, jinja2, pytest
+
+%
+pysparse
+1.1.1
+Pysparse is a fast sparse matrix library for Python.
+Pysparse is a fast sparse matrix library for Python.
+http://pysparse.sourceforge.net/
+pysparse
+2
+2 336 914
+numpy
+
+%
+fipy
+3.1-1
+FiPy is an object oriented, partial differential equation (PDE) solver, written in Python, based on a standard finite volume (FV) approach.
+FiPy is an object oriented, partial differential equation (PDE) solver, written in Python, based on a standard finite volume (FV) approach
+http://www.ctcms.nist.gov/fipy/index.html
+fipy
+2
+5 136 475
+pysparse, numpy, matplotlib, gnuplot
+
+%
+visvis
+1.9.1-6
+A pure Python library for visualization of 1D to 4D data in an object oriented way.
+A pure Python library for visualization of 1D to 4D data in an object oriented way.
+http://code.google.com/p/visvis/
+visvis
+2
+912 036
+numpy, pyopengl
+
+%
+scikits.timeseries
+0.91.3
+Biblioth?que pour cr?er, manipuler et afficher des s?ries temporelles
+Module for manipulating, reporting, and plotting time series of various frequencies
+http://pytseries.sourceforge.net
+scikits.timeseries
+2
+3 035 179
+-
+
+%
+shapely
+1.5.9-7
+package for manipulation and analysis of features in the Cartesian plane.
+package for manipulation and analysis of features in the Cartesian plane.
+http://toblerity.github.com/shapely
+shapely
+2
+912 036
+numpy, gdal
+
+%
+pycuda
+2012.1-1
+lets you access Nvidia's CUDA parallel computation API from Python. Requires CUDA 5.0.34 and Microsoft C++ compiler.
+lets you access Nvidia's CUDA parallel computation API from Python. Requires CUDA 5.0.34 and Microsoft C++ compiler.
+http://mathema.tician.de/software/pycuda
+pycuda
+2
+1000
+pyopencl
+
+%
+SimpleParse
+2.1.1-1
+A Parser Generator for Python (w/mxTextTools derivative)
+A Parser Generator for Python (w/mxTextTools derivative)
+http://simpleparse.sourceforge.net/
+simpleparse
+1 2
+1000
+-
+
+%
+pygame
+1.9.2-2
+A set of Python modules designed for writing games
+A set of Python modules designed for writing games
+http://www.pygame.org
+pygame
+2
+1000
+-
+
+%
+freeimage
+3.6.0-7
+an Open Source library supporting popular graphics image formats. Includes imageio and smc.freeimage.
+an Open Source library supporting popular graphics image formats. Includes imageio and smc.freeimage.
+http://freeimage.sourceforge.net/
+freeimage
+1 2
+1000
+base_libraries
+
